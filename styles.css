@@ -3,8 +3,8 @@
   margin: 0;
 }
 
-#myCanvas {
-  background:#eee;
+#gameStage {
+  background: #eee;
   display: block;
   margin: 0 auto;
 }

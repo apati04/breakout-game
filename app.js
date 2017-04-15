@@ -1,4 +1,4 @@
-let canvas = document.getElementById('board');
+let canvas = document.getElementById('gameStage');
 let ctx = canvas.getContext('2d');
 
 ctx.beginPath();
